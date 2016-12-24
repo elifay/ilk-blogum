@@ -25,7 +25,10 @@ SECRET_KEY = '8w8gqat%4&0%nknopa(2sbb)yj3vn1b3*23xld25&92d&r(8#l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+
+    'elifyurdagul.pythonanywhere.com'
+        ]
 
 
 # Application definition
